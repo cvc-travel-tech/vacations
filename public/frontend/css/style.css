@@ -1,0 +1,101 @@
+.bravo_wrap .page-template-content .bravo-form-search-tour .text-heading {
+    font-weight: 500;
+    font-size: 54px;
+    color: white;
+}
+
+.bravo_wrap .page-template-content .bravo-form-search-tour .sub-heading {
+    font-size: 18px;
+    color: white;
+}
+
+.bravo_wrap .page-template-content .bravo-list-locations .list-item .destination-item .effect {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #000;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    /* opacity: .4; */
+    transition: all 0.3s;
+}
+
+.bravo_wrap .bravo_footer .mailchimp .subcribe-form .btn-submit {
+    background: #f18411;
+}
+
+
+/* start tour */
+
+.bravo_wrap .bravo_search_tour .bravo_banner h1 {
+    text-align: center;
+}
+
+.card {
+    padding-left: auto;
+    padding-right: auto;
+    min-height: 500px;
+    margin-top: 15px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    -webkit-transition: .25s box-shadow;
+    transition: .25s box-shadow;
+}
+
+.card:focus,
+.card:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+.card-inverse .card-img-overlay {
+    background-color: rgba(51, 51, 51, 0.85);
+    border-color: rgba(51, 51, 51, 0.85);
+}
+
+.card-img-top {
+    margin-top: 10px;
+}
+
+.col-xs-12 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bravo_wrap .bravo_footer .mailchimp .subcribe-form .btn-submit {
+    background-color: #f18411;
+}
+
+.bravo-news .widget_category ul li span,
+.bravo_wrap .bravo_search_tour .bravo_form_search .bravo_form .g-button-submit button,
+.bravo_wrap .bravo_search_tour .bravo_filter .filter-title:before,
+.bravo_wrap .bravo_search_tour .bravo_filter .g-filter-item .item-content .bravo-filter-price .irs--flat .irs-bar,
+.bravo_wrap .bravo_search_tour .bravo_filter .g-filter-item .item-content .bravo-filter-price .irs--flat .irs-from,
+.bravo_wrap .bravo_search_tour .bravo_filter .g-filter-item .item-content .bravo-filter-price .irs--flat .irs-to,
+.bravo_wrap .bravo_search_tour .bravo_filter .g-filter-item .item-content .bravo-filter-price .irs--flat .irs-single,
+.bravo_wrap .bravo_search_tour .bravo_filter .g-filter-item .item-content .bravo-filter-price .irs--flat .irs-handle>i:first-child,
+.bravo-news .header .cate ul li,
+.bravo_wrap .page-template-content .bravo-form-search-tour .bravo_form_search_tour .g-button-submit button,
+.bravo_wrap .page-template-content .bravo-list-locations .list-item .destination-item .image .content .desc {
+    background: #e9971f;
+}
+
+
+/* start tour */
+
+content-tour h3 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 30px;
+    font-weight: 900;
+    color: #1a2b48;
+}
+
+
+/* end tour */
